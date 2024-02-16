@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Firma.Osoba">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Osoba.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Firma.Wlasciciel">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAIAAACIAQAAAAAAAIAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>Wlasciciel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Firma.LogReg">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogReg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Brygadzista">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAIAAAAAAAAAIAAAAAAAAAAAgACA=</HashCode>
+      <FileName>Brygadzista.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Firma.Modele.Brygady">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAACA=</HashCode>
+      <FileName>Modele\Brygady.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Modele.FirmaContext">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAQAAACAAABAAQAEAAAAAAAAAAQAAAEAAA=</HashCode>
+      <FileName>Modele\FirmaContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Modele.Godziny">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Modele\Godziny.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Modele.Login">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Modele\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Modele.Pracownicy">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAIAAAAAAEAAAAAoAAAgAAAAIAAAAAACAACA=</HashCode>
+      <FileName>Modele\Pracownicy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Modele.Urlopy">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAEAA=</HashCode>
+      <FileName>Modele\Urlopy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firma.Modele.Zaliczki">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAAAAAAACCAAAA=</HashCode>
+      <FileName>Modele\Zaliczki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Firma.IOsoba">
+    <Position X="4.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Osoba.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

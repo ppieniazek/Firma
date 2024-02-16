@@ -16,7 +16,7 @@ internal class Brygadzista(int? bid) : Osoba, IOsoba
     {
         Console.Clear();
         string menu = $"\tBrygadzista (b_id = {BId})\n1. Zarządzaj godzinami" +
-            "\n2. Zarządzaj urlopami\n3. Zarządzaj zaliczkami\n";
+            "\n2. Zarządzaj urlopami\n3. Zarządzaj zaliczkami\n'q' - wyjście\n";
         Console.Write(menu);
         bool askAgain = true;
         while (askAgain)
@@ -32,6 +32,9 @@ internal class Brygadzista(int? bid) : Osoba, IOsoba
                     break;
                 case "3":
                     ZarzadzajZaliczkami();
+                    break;
+                case "q":
+                    Environment.Exit(0);
                     break;
                 default:
                     Console.WriteLine("Nieprawidłowo wybrana opcja. Spróbuj jeszcze raz.\n");
